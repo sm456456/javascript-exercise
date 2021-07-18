@@ -1,1 +1,1 @@
-# javascript-exercise
+# small quiz javascript exercise
